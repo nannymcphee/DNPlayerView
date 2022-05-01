@@ -1,0 +1,17 @@
+# Xcode
+.DS_Store
+/build/
+*.pbxuser
+xcuserdata
+DerivedData
+.idea/
+*.hmap
+*.xccheckout
+.xcuserdatad
+#CocoaPods
+Pods
+Pods/
+DNPlayerView.xcworkspace
+DNPlayerView.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+DNPlayerView.xcworkspace/xcuserdata
+report.xml
