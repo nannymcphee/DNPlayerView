@@ -71,6 +71,8 @@
 		B71AD611281E379600A52FC4 /* DNPlayerView */ = {
 			isa = PBXGroup;
 			children = (
+				B73DB4B0281E39CE00B04B59 /* Extensions */,
+				B73DB4AF281E39C900B04B59 /* Utils */,
 				B71AD612281E379600A52FC4 /* DNPlayerView.h */,
 				B71AD613281E379600A52FC4 /* DNPlayerView.docc */,
 			);
@@ -83,6 +85,20 @@
 				B71AD61E281E379600A52FC4 /* DNPlayerViewTests.swift */,
 			);
 			path = DNPlayerViewTests;
+			sourceTree = "<group>";
+		};
+		B73DB4AF281E39C900B04B59 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		B73DB4B0281E39CE00B04B59 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
