@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage      = "https://github.com/nannymcphee"
   s.license       = "MIT"
   s.author        = "DuyNguyen"
-  s.platform      = :ios, "9.0"
+  s.platform      = :ios, "13.0"
   s.swift_version = "4.2"
   s.source        = {
     :git => "https://github.com/nannymcphee/DNPlayerView.git",

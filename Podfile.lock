@@ -1,0 +1,16 @@
+PODS:
+  - DNPlayerView (0.0.1)
+
+DEPENDENCIES:
+  - DNPlayerView (from `.`)
+
+EXTERNAL SOURCES:
+  DNPlayerView:
+    :path: "."
+
+SPEC CHECKSUMS:
+  DNPlayerView: 654b0eeafd00dbaf350f5c1ac5108bc5e754d1c0
+
+PODFILE CHECKSUM: 55d969877d30363456a2a9b355185801f133d901
+
+COCOAPODS: 1.11.2
